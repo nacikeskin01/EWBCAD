@@ -1,0 +1,60 @@
+Transmittal Report:
+Created by AutoCAD eTransmit Tuesday, October 22, 2024, 1:49 PM.
+
+Drawing:
+This is a transmittal based on EWB-Ecuador Drawing Template ISO A3 (Metric).dwg.
+
+Files:
+
+Root Drawing:
+	EWB-Ecuador Drawing Template ISO A3 (Metric).dwg
+
+AutoCAD Font Map References:
+	acad.fmp
+
+AutoCAD Compiled Shape References:
+	Fonts\simplex.shx
+	Fonts\romans.shx
+	Fonts\ltypeshp.shx
+	Fonts\eXCAVATION.shx
+
+TrueType font file References:
+	Fonts\swiss.ttf
+	Fonts\arial.ttf
+
+PNG File References:
+	Logos\EWB-LOGOS-2017-RGB_primary-black.png
+
+AutoCAD Color-dependent Plot Style Table File References:
+	PlotCfgs\EWB-Ecuador.ctb
+
+AutoCAD Plotter Configuration File References:
+	PlotCfgs\DWG To PDF.pc3
+
+
+Notes for distribution:
+
+Raster image files:
+Paths may be present on references to raster images.  Make sure these paths work or that the root drawing is using the correct references.
+
+.SHX fonts:
+Please copy these fonts to the AutoCAD Fonts directory and check with the font manufacturer about distribution rights.  Fonts supplied with AutoCAD are freely distributable.
+
+.TTF fonts:
+TTF fonts must be registered with the Operating System.  To register,
+On Windows:
+Copy these files to the system fonts folder or use the fonts application in the Control Panel.
+On OS X:
+You may install fonts by double-clicking them and following the on screen prompts in the Font Book application, or by manually copying or dragging font files to any of the standard Fonts folders in Mac OS X.
+Check with the font manufacturer about distribution rights.  Fonts supplied with AutoCAD are freely distributable.
+
+.PC3 printer configuration files:
+Please copy these files to the AutoCAD Printer Configuration Search Path directory.
+
+.CTB/.STB plot style tables:
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\wanda\appdata\roaming\autodesk\autocad 2024\r24.3\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+
